@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/drawable/border.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/drawable/custom_progress_bg.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/drawable/greyborder.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/drawable/ic_baseline_list_alt_24.xml" value="0.14675925925925926" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.14537037037037037" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/drawable/roundbtn.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/drawable/topborder.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/drawable/topgreyborder.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/layout/activity_home.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/layout/activity_ingredient_screen.xml" value="0.2" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/layout/activity_order_screen.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/layout/blank_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/layout/fragment_appetizer.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/layout/fragment_bento.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/layout/item_each_order.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/layout/item_github_repo.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/layout/item_ingredient.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/layout/item_order.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/FoodOrderApp/app/src/main/res/layout/orderitems.xml" value="0.12771739130434784" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

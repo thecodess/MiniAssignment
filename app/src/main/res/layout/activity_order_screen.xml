@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+   android:padding="6dp"
+    android:background="#efeeee"
+    tools:context=".OrderScreen">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="7dp"
+    android:gravity="end"
+    android:layout_gravity="end"
+    android:orientation="horizontal">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginRight="9dp"
+        android:layout_gravity="end">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="6dp"
+            android:background="@android:color/holo_red_dark"
+            android:text="+2"
+            android:layout_gravity="end"
+            android:textColor="@android:color/white"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#efeeee"
+        android:text="Incoming"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        />
+
+</LinearLayout>
+    <ImageView
+        android:layout_width="47dp"
+        android:layout_height="47dp"
+        android:id="@+id/ingredient"
+        android:src="@drawable/ic_baseline_list_alt_24"
+        android:layout_gravity="end"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MCC Makan Place - ..."
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_gravity="center_vertical"/>
+    <ImageView
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:src="@drawable/ic_baseline_more_vert_24"/>
+</LinearLayout>
+
+<androidx.recyclerview.widget.RecyclerView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="13dp"
+    android:id="@+id/recyclerV"
+    android:orientation="horizontal"/>
+</LinearLayout>
